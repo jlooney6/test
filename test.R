@@ -3,3 +3,7 @@ y <- 99
 z <- x * y
 
 # Great job, you're an R expert. Add a line assigning x * y to a new variable z
+
+my_name <- "Nick"
+
+# A cool comment
