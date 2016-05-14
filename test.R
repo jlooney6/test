@@ -7,3 +7,4 @@ a <- c(3,2,1)
 my_name <- "Nick"
 
 # A cool comment
+his_name <- "Jim"
